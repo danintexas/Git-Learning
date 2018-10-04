@@ -8,4 +8,4 @@ Thank you
 
 Daniel
 
-Part of testBranch - Changed
+Removed testBranch message
