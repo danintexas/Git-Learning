@@ -1,3 +1,9 @@
 This is a test repo just so I can learn Git
 
-Test Change
+Please ignore this
+
+BTW visit my website! I am so very proud of it! 
+
+Thank you
+
+Daniel
