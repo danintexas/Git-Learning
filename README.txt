@@ -6,4 +6,4 @@ BTW visit my website! I am so very proud of it! Indeed I am
 
 Thank you
 
-Daniel
+Daniel G
